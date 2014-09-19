@@ -1,4 +1,4 @@
 #!/bin/bash
 
-packer build packer.json
+packer build mesos.json
 
